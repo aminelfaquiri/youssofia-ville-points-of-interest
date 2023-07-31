@@ -1,0 +1,203 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "la Gare",
+          "type": "transport"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.534573248071865,
+            32.24743092392596
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Al Ouma",
+          "type": "pharmacie "
+        },
+        "geometry": {
+          "coordinates": [
+            -8.534127709483073,
+            32.245842903801986
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Minicipalite",
+          "type ": "pharmacie"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.534603908972912,
+            32.244636748290645
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Kachkat",
+          "type": "pharmacie "
+        },
+        "geometry": {
+          "coordinates": [
+            -8.533252083537661,
+            32.245816463652005
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Orphelinat",
+          "type ": "pharmacie"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.531787594283912,
+            32.24459560093803
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Ahmar",
+          "type": "pharmacie "
+        },
+        "geometry": {
+          "coordinates": [
+            -8.535456436889092,
+            32.24187169931426
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Moderne",
+          "type": "pharmacie"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.537197996593079,
+            32.241599923577226
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Du Souk",
+          "type": "pharmacie"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.537933611325599,
+            32.23999473748944
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Annour",
+          "type": "pharmacie"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.532629636099244,
+            32.237120462252804
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "terrain football",
+          "type": "sport place"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.535201908249832,
+            32.237962459265844
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pharmacie Lahid",
+          "type": "pharmacie"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.532431728054434,
+            32.248983104488474
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "youcode",
+          "type": "ecole",
+          "description": "ecole de la nouvelle technologie"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.521736745223308,
+            32.247578759898246
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hôpital Cheikh Zayed",
+          "type": "Hôpital",
+          "description" : "L'Hôpital privé, le meilleur de la ville, offre à ses patients tous les conforts nécessaires. Avec des installations de pointe et un personnel dévoué"
+
+        },
+        "geometry": {
+          "coordinates": [
+            -8.522141367867079,
+            32.24861094447948
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      }
+    ]
+  }
